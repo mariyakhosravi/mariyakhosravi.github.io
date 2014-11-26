@@ -1,0 +1,1313 @@
+
+body{
+    background: rgb(204, 204, 204);
+    direction: rtl;
+}
+
+
+
+
+.test{
+    width: 100%;
+    background: rgb(221, 221, 221);
+    height: 35px;
+    float: right;
+    padding-top: 5px;  
+}
+.c {
+    width: 950px;
+    margin: 0px auto;
+}
+.b{
+    width: 467px;
+    height: 30px;
+    float: right;
+}
+
+.a{
+    width: 455px;
+    padding: 5px;
+    border: 1px solid rgb(204, 204, 204);
+    height: 18px;
+    background: rgb(238, 238, 238);
+}
+.a .search-form {
+    width: 450px;
+    height: 16px;
+    float: right;
+    width: 100%;
+    
+}
+.a.search-form .search-input {
+    float: right;
+    background: transparent;
+    border: medium none;
+    width: 260px;
+    font: inherit;
+    font-size: 11px;
+    color: rgb(153, 153, 153);
+}
+input{
+    font-size: 12px;
+    height: 11px;
+    margin-top: 1px;
+    vertical-align: baseline;
+    background: rgb(238, 238, 238);
+    border: medium none;
+    color: rgb(153, 153, 153);
+    font: inherit;
+}
+ .a.search-form select {
+    border-style: none solid none none;
+    font-size: 11px;
+    color: rgb(153, 153, 153);
+    width: 145px;
+    text-align: center;
+    margin-right: 10px;
+    border-image: none;
+    font-family: inherit;
+    float: left;
+    background:  rgb(238, 238, 238);
+}
+   select{
+    font-size: 100%;
+   margin-right: 100px;
+    width: 100px;
+       border: medium none;
+    vertical-align: baseline;
+    background:  rgb(238, 238, 238);
+}
+.blue .a.search-form .search-submit {
+    background-position: 64px 0px;
+    background-image: rgb(238, 238, 238);
+    float: left;
+    border: medium none;
+    position: relative;
+    top: 2px;
+    margin-left: 5px;
+    height: 16px;
+    width: 16px;
+    opacity: 0.5;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+
+
+
+
+* {
+    outline: 0px none;
+}
+.cl{
+    float: left;
+    width: 467px;
+    height: 30px;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+
+    
+    
+}
+.d{
+    width: 145px;
+    background-color: rgb(2, 119, 158);
+    border: 1px solid rgb(3, 74, 97);
+    height: 28px;
+    float: right;
+    margin-left: 15px;
+    float: right;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    text-align: center;
+    line-height: 25px;
+        
+}
+.blue .d a {
+    background-color: rgb(2, 119, 158);
+    border: 1px solid rgb(3, 74, 97);
+    
+}
+.dd {
+    border-right: 1px solid rgb(204, 204, 204);
+    width: 125px;
+    padding: 0px 10px;
+     width: 145px;
+    height: 30px;
+    float: right;
+    margin-left: 15px;
+    margin-right: 70px;
+    
+}
+.dd a {
+    color: rgb(153, 153, 153);
+    font-family: BYekan;
+    font-size: 13px;
+    line-height: 27px;
+}
+
+
+.ac {
+    border-right: 1px solid rgb(204, 204, 204);
+    border-left: 1px solid rgb(204, 204, 204);
+    width: 100px;
+    padding: 0px 10px;
+    float: left;
+    margin-top: -27px;
+    font-family: inherit;
+}
+.ac a {
+    color: rgb(153, 153, 153);
+    font-size: 13px;
+    line-height: 27px;
+}
+.blue .ad {
+    background-position: 60px 0px;
+}
+.hed {
+    border-bottom: 2px solid rgb(2, 119, 158);
+    float: right;
+    width: 100%;
+    background: rgb(238, 238, 238);
+    height: 160px;
+    position: relative;
+  
+}
+.cen {
+    width: 950px;
+    margin: 0px auto;
+}
+.slide {
+    width: 942px;
+    background: rgb(204, 204, 204);
+    float: right;
+    height: 342px;
+    margin-top: -150px;
+    border-bottom: 2px solid rgb(2, 119, 158);
+    border-right: 2px solid rgb(2, 119, 158);
+    border-top: 2px solid rgb(2, 119, 158);
+    border-left: 2px solid rgb(2, 119, 158);
+    
+}
+
+.element {
+    display: block;
+    text-align: start;
+    float: none;
+    position: relative;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    z-index: auto;
+    width: 930px;
+    height: 342px;
+    margin: 0px;
+    overflow: hidden;
+    
+}
+
+
+ .men {
+    background-color: rgb(2, 119, 158);
+    width: 950px;
+    position: absolute;
+    height: 45px;
+    z-index: 30;
+    float: right;
+    border-radius: 5px 5px 0px 0px;
+    font-family: BYekan;
+    font-size: 17px;
+    line-height: 46px;
+     margin-top: 115px;
+   
+}
+.men li {
+    float: right;
+    border: medium none;
+    text-align: center;
+    margin: -10px  10px;
+    list-style-type: none;
+    padding-left: 10px;
+}
+a {
+  
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+ 
+}
+
+.men a {
+    text-decoration: none;
+    height: 45px;
+    line-height: 45px;
+    padding: 0px,12px;
+    color: rgb(238,238,238);
+    display: inline-block;
+    position: relative;
+    margin-bottom: 50px;
+}
+
+.log {
+    float: left;
+    margin-top: 13px;
+    margin: -115px;
+    padding: 0px;
+    border: 0px none;
+    font: inherit;
+   
+
+}
+.lo {
+    float: right;
+    margin-top: -100px;
+    
+    padding: 0px;
+    border: 0px none;
+    font: inherit;
+   
+}
+
+
+* {
+    outline: 0px none;
+}
+
+
+.ads {
+    float: right;
+    width: 300px;
+    height: 150px;
+    margin: 180px;
+    margin-right: 3px;
+    border-radius: 3px 3px 3px 3px;
+    
+   
+}
+.to {
+    float: right;
+    width: 950px;
+    height: 200px;
+}
+
+.ban {
+    width: 300px;
+    height: 150px;
+    float: right;
+    border-radius: 3px 3px 3px 3px;
+}
+
+.too {
+    float: right;
+    width: 300px;
+    height: 150px;
+    border-radius: 5px 5px 5px 5px;
+    
+}
+.bann {
+    width: 300px;
+    height: 150px;
+    float: right;
+     margin-right:320px;
+    margin-top: -150px;
+    border-radius: 5px 5px 5px 5px;
+
+}
+
+.tooo {
+    float: right;
+    width: 300px;
+   margin-right: -80px;
+    height: 150px;
+    border-radius: 5px 5px 5px 5px;
+}
+    
+
+.banne {
+    float: right;
+    width: 228px;
+     margin-right:720px;                          
+    height: 100px;
+    margin-top: -160px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.cont li{
+    height: 30px;
+    padding-bottom: 0px;
+    background:rgb(51, 51, 51);
+    font-family: tahoma;
+    font-size: 11px;
+    margin-right:-10px;
+    border-radius: 3px 3px 3px 3px;
+}
+
+
+
+
+.top{
+    width: 30px;
+    height: 15px;
+    overflow: hidden;
+}
+
+
+
+
+.tt-ads {
+    float: right;
+    width: 1010px;
+    margin-top:2px;
+    padding: 0px;
+    position: relative;
+    margin-top: 10px;
+    
+}
+
+
+.tt-ads-detail {
+    position: absolute;
+    bottom: 0px;
+    padding: 5px 10px;
+    width: 160px;
+    background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: Tahoma,Geneva,sans-serif;
+    font-size: 13px;
+    height: 20px;
+}
+
+
+
+
+
+.tt-ads ul li {
+    float: right;
+    width: 180px;
+    height: 180px;
+    border: 1px solid rgb(255, 255, 255);
+    margin-left:10px;
+    margin-bottom:10px;
+    background: rgb(238, 238, 238);
+    border-radius: 5px 5px 5px 5px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease 0s;
+    
+}
+
+
+
+
+.tt-ads-d h3 {
+    font-weight: bolder;
+    font-size: 13px;
+}
+
+ .m {
+    float: right;
+    width: 950px;
+    margin-top: 10px;
+    vertical-align: baseline;
+    font: inherit;
+    border: 0px none;
+    padding: 0px;
+    margin:20px;
+     display: inline;
+}
+
+.m-c {
+    float: left;
+    width: 680px;
+    vertical-align: baseline;
+    font: inherit;
+    border: 0px none;
+    padding: 0px;
+    margin: 0px;
+}
+.m-c-box {
+    float: right;
+    width: 678px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid rgb(187, 187, 187);
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+
+h1.m-c-box-title {
+    float: right;
+    width: 658px;
+    background: url("http://www.lastsecond.ir/interface/images/xbox-title.png.pagespeed.ic.hlI5LjSyvi.png") repeat scroll 0% 0% transparent;
+    height: 45px;
+    position: relative;
+    font-family: BYekan;
+    font-size: 17px;
+    line-height: 45px;
+    padding-right: 20px;
+    font: inherit;
+    border: 0px none;
+    padding: 0px;
+    margin: 0px;
+}
+#pager{
+    width: 658px;
+vertical-align: baseline;
+font: inherit;
+border: 0px none;
+padding: 0px;
+margin: 0px;
+}
+
+.blue #pager a.selected {
+    color: rgb(2, 119, 158);
+}
+
+#pager a {
+    color: rgb(153, 153, 153);
+    margin-left: 15px;
+    float: right;
+}
+
+.m-c-box-body {
+    float: right;
+    width: 658px;
+    padding:0px;
+    font: inherit;
+    margin: 0px;
+    color: rgb(51, 51, 51);
+}
+
+.element {
+    display: block;
+    text-align: start;
+    float: none;
+    position: relative;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    overflow: hidden;
+    margin: 0px;
+    height: 966px;
+    width: 650px;
+    z-index: auto;
+}
+
+
+
+.mm{
+    width: 700px;
+    height: 1200px;
+    float: right;
+    background: rgb(255, 255, 255);
+    margin-top: 20px;
+    margin-right: 270px;
+    border-radius: 5px 5px 5px 5px;
+    
+}
+.sidebar-box {
+    float: right;
+    width: 248px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid rgb(187, 187, 187);
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+}
+h1.sidebar-box-title {
+    float: right;
+    width: 228px;
+    background: rgb(187, 187, 187);
+    position: relative;
+    font-family: BYekan;
+    font-size: 17px;
+    line-height: 45px;
+    padding-right: 20px;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+}
+ 
+.bv {
+    border-bottom: 1px solid;
+    width:auto;
+    height:60%;
+    background: #128;
+    direction: rtl;
+    text-align: center;
+   
+    margin-top: -30px;
+    background:#921; 
+    vertical-align: middle;
+}
+
+.cv{
+   background:rgb(153, 153, 153);
+   padding-top: 30px; 
+   
+}
+
+
+
+
+
+
+
+
+
+
+  span{
+    float: left;
+    margin-top: -15px;
+    padding: 0px;
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+
+
+
+
+
+.s-box {
+    float: right;
+    width: 248px;
+    background: rgb(255, 255, 255);
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid rgb(187, 187, 187);
+    position: relative;
+    overflow: hidden;
+    margin-top: -975px;
+    
+    
+
+    
+}
+h1.s-box-title {
+    float: right;
+    width: 228px;
+    background: url("http://www.lastsecond.ir/interface/images/xbox-title.png.pagespeed.ic.hlI5LjSyvi.png") repeat scroll 0% 0% transparent;
+    position: relative;
+    font-family: BYekan;
+    font-size: 17px;
+    line-height: 45px;
+    padding-right: 20px;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+}
+
+
+.s-box-body {
+    float: right;
+    width: 228px;
+    padding: 10px;
+    position: relative;
+}
+
+.s-ads {
+    background:rgb(204, 204, 204);
+}
+
+.banner {
+    float: right;
+    width: 228px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.kk{
+    width: 700px;
+    height: 610px;
+    float: left;
+    background:rgb(255, 255, 255);
+    margin-top: 20px;
+    margin-left:40px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+
+
+
+
+
+
+h1.main-content-box-title {
+    height: 45px;
+    position: relative;
+    font-family: BYekan;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+    float:right;
+    width: 700px;
+    background: rgb(240,240,240);
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+
+    line-height: 0px;
+    font-size: 17px;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+    padding=0px;
+    vertical-align: baseline;
+    font: inherit;
+    border: 0px none;
+    margin: 0px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+
+
+.blue h1.main-content-box-title {
+    color: rgb(2, 119, 158);
+}
+
+
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0px;
+    color: rgb(51,51,51);
+}
+.main-content-box-body {
+    float: right;
+    width: 680px;
+    padding: 10px;
+    height: 525px;
+    background: rgb(255,255,255);
+}
+
+
+
+.sid-box {
+    float: right;
+    width: 248px;
+    background: rgb(255,255,255);
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid rgb(187, 187, 187);
+    border-bottom-color:rgb(183, 183, 183); 
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+    font: inherit;
+    vertical-align: baseline;
+    padding: 0px;
+    margin-top:20px;
+    height: 350px;
+}
+
+.side-box {
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid rgb(187, 187, 187);
+    position: relative;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.2);
+    font: inherit;
+    vertical-align: baseline;
+    margin-top: 390px;
+    margin-right: -250px;
+    padding: 0px;
+    width: 248px;
+    float: right;
+    background: rgb(255, 255, 255);
+}
+.blue h1.sidebar-box-title {
+    color: rgb(2, 119, 158);
+}
+
+
+
+
+
+
+
+
+
+h1.sid-box-title {
+    float: right;
+    width:250px;
+    height: 45px;
+    background: url("http://www.lastsecond.ir/interface/images/xbox-title.png.pagespeed.ic.hlI5LjSyvi.png") repeat scroll 0% 0% transparent;
+    position: relative;
+    font-family: BYekan;
+    font-size: 17px;
+    line-height: 100px;
+    padding-right: 20px;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+a:link{
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+    border: 0px none;
+   font: inherit;
+   vertical-align: baseline;
+   margin: 0px;
+   padding: 0px;
+}
+
+
+
+
+
+h1.side-box-title {
+    float: right;
+    width:250px;
+    height: 45px;
+    background: url("http://www.lastsecond.ir/interface/images/xbox-title.png.pagespeed.ic.hlI5LjSyvi.png") repeat scroll 0% 0% transparent;
+    position: relative;
+    font-family: BYekan;
+    font-size: 17px;
+    line-height: 100px;
+    padding-right: 20px;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+}
+.side-box-body {
+    float: right;
+    width: 228px;
+    padding: 10px;
+    position: relative;
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0px;
+}
+
+.footer-banner {
+    float: left;
+    width: 680px;
+    clear: both;
+    padding: 0px;
+    margin-top:430px;
+    margin-left: 50px; 
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    border="0";
+    height="120"; 
+}
+
+
+
+
+
+.h-item {
+    float: right;
+    width: 302px;
+    background: none repeat scroll 0% 0% rgb(238, 238, 238);
+    height: 144px;
+    padding: 10px;
+    border: 2px solid rgb(221, 221, 221);
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px 5px 5px 5px;
+    text-shadow: 1px 1px 0px rgb(51, 51, 51);
+    transition: all 0.3s ease 0s;
+    position: relative;
+    margin-left:13px;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+.h-item-right {
+    float: right;
+    width: 140px;
+    padding: 0px;
+    border: 0px none;
+    vertical-align: baseline;
+    font: inherit;
+    margin: 0px;
+    border:2px solid rgb(2, 119, 158);
+}
+a:link{
+    color: rgb(51, 51, 51);
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+    vertical-align: baseline;
+    border: 0px none;
+    padding: 0px;
+    font: inherit;
+    margin: 0px;
+
+}
+
+
+
+.h-item-left {
+float: right;
+width: 150px;
+margin: 0px;
+padding: 0px;
+border: 0px none;
+font: inherit;
+vertical-align: baseline;
+}
+h1.h-name {
+    font-family: BYekan;
+    font-size: 17px;
+   vertical-align: baseline;
+    border: 0px none;
+    padding: 0px;
+    font: inherit;
+    margin: 0px;
+}
+
+.star {
+    float: right;
+    width:67px;
+    height: 17px;
+    margin-top: 10px;
+    vertical-align: baseline;
+    border: 0px none;
+    padding: 0px;
+    margin: 0px;
+    font: inherit;
+}
+.hr4star {
+    background-position: 0px 90px;
+}
+
+.h-patch {
+    width: 100%;
+    float: right;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    vertical-align: baseline;
+    border: 0px none;
+    padding: 0px;
+    font: inherit;
+    margin: 0px;
+}
+
+
+
+
+
+
+
+.ff {
+    float: right;
+    height: 500px;
+    width: 700px;
+    background:rgb(255, 255, 255);
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid rgb(187, 187, 187);
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    margin-top:40px;
+    padding: 0px;
+   font: inherit;
+   vertical-align: baseline;
+}
+
+h1.ff-title {
+    float: right;
+    width: 700px;
+    background: rgb(240, 240, 240);
+    height: 45px;
+    position: relative;
+    font-family: BYekan;
+    font-size: 17px;
+    line-height: 45px;
+    padding-right: 20px;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+    margin: 0px;
+    padding: 0px;
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+
+#pager2 {
+    width: 658px;
+    margin: 0px;
+    padding-top: 5px;
+    border: 0px none;
+   font: inherit;
+   vertical-align: baseline;
+}
+#pager2 a {
+    margin-left: 15px;
+    float: right;
+}
+
+a:link{
+    margin: 0px;
+    padding: 0px;
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+}
+.blue #pager2 a.selected {
+    color: rgb(2, 119, 158);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bottom {
+    float: right;
+    width: 100%;
+    background: none repeat scroll 0% 0% rgb(221, 221, 221);
+    padding: 40px 0px;
+    clear: both;
+    margin-top: 3500px;
+    margin-right: 0px;
+    position: relative;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.7);
+    z-index: 5;
+}
+.center {
+    width: 950px;
+    margin: 0px auto;
+}
+.bottom-item {
+    float: right;
+    width: 218px;
+    margin-right: -10px;
+    margin-left: 5px;
+}
+.blue .bottom-item-title {
+    border-bottom: 2px solid rgb(2, 119, 158);
+}
+ul.list {
+    float: right;
+    width: 100%;
+}
+ul {
+    list-style: none outside none;
+}
+ul.list li {
+    padding: 5px 0px;
+    color: rgb(102, 102, 102);
+    position: relative;
+}
+.bottom-list li {
+    border-bottom: 1px solid rgb(238, 238, 238);
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+}
+ul.list li a {
+    color: rgb(102, 102, 102);
+}
+a:link{
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+}
+
+
+.bottom-item-title {
+    font-family: BYekan;
+    font-size: 17px;
+    color: rgb(153, 153, 153);
+    padding-bottom: 10px;
+    text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.7);
+}
+
+
+.sidee-box {
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid rgb(187, 187, 187);
+    position: relative;
+    overflow: hidden;
+    font: inherit;
+    vertical-align: baseline;
+    margin-top: -1200px;
+    margin-right: -5px;
+    padding: 0px;
+    width: 250px;
+    float: right;
+    background: rgb(240, 240, 240);
+    box-shadow: 0px 0px 3px rgb(187, 187, 187);
+    
+}
+
+h1.sidee-box-title {
+    float: right;
+    width: 250px;
+    height: 45px;
+    background: url("http://www.lastsecond.ir/interface/images/xbox-title.png.pagespeed.ic.hlI5LjSyvi.png") repeat scroll 0% 0% transparent;
+    position: relative;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+    box-shadow: 0px 0px 3px rgb(187, 187, 187);
+}
+
+.sidee-box-body {
+    float: right;
+    width: 200px;
+    padding: 25px;
+    position: relative;
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0px;
+    background: rgb(255,255,255);
+}
+
+
+
+
+
+
+
+
+.sideee-box {
+    border-radius: 5px 5px 5px 5px;
+    border: 1px solid rgb(187, 187, 187);
+    position: relative;
+    overflow: hidden;
+    font: inherit;
+    vertical-align: baseline;
+    margin-top: -1085px;
+    margin-right: -5px;
+    padding: 0px;
+    width: 250px;
+    float: right;
+    background: rgb(240, 240, 240);
+}
+
+h1.sideee-box-title {
+    float: right;
+    width: 250px;
+    height: 45px;
+    background:rgb(240,240,240);
+    position: relative;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0px;
+    padding: 0px;
+}
+
+.sideee-box-body {
+    float: right;
+    width: 200px;
+    padding: 25px;
+    position: relative;
+    border: 0px none;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0px;
+    background: rgb(255,255,255);
+}
+.ll{
+    width: 680px;
+    height: 5px;
+    margin-top: 1px;
+    border-bottom: 1px solid;
+    border-bottom-color: rgb(183,183,183);
+    padding-top: 30px;
+    padding-right: 20px;
+    font-size: 14px;
+}
+
+.li p{
+    padding-top: 50px;
+    margin-right: -20px;
+    text-align: center;
+}
+
+
+.o{
+    width: 680px;
+    height: 5px;
+    margin-top: 10px;
+    border-bottom: 1px solid;
+    padding-top: 30px;
+    padding-right: 20px;
+    border-bottom: 1px solid;
+    border-bottom-color: rgb(183,183,183);
+    font-size: 14px;
+}
+
+
+.li p{
+    padding-top: 50px;
+    margin-right: -20px;
+    text-align: center;
+}
+
+.ss{
+    width: 250px;
+    height: 5px;
+    margin-top: 10px;
+    border-bottom: 1px solid;
+    border-bottom-color: rgb(183,183,183);
+    padding-top: 30px;
+    padding-right: 20px;
+    border-bottom: 1px solid;
+    font-size: 12px;
+}
+
+
+.li p{
+    padding-top: 50px;
+    margin-right: -20px;
+    text-align: center;
+}
+
+.footer {
+    float: right;
+    width: 100%;
+    background: rgb(51, 51, 51);
+    padding: 30px 0px;
+    clear: both;
+    position: relative;
+    color: rgb(102, 102, 102);
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+    font-size: 13px;
+    font-family: BYekan;
+    margin-top:0px;
+    height: 100px;
+    
+}
+
+.center {
+    width: 950px;
+    height:90px;
+    margin: 0px auto;
+    margin-top: -20px;
+}
+.right-nav-menu {
+    width: 50px;
+    height: 357px;
+    position: fixed;
+    right: 0px;
+    top: 50%;
+    margin-top: -178.5px;
+    z-index: 120;
+}
+ 
+ul {
+    list-style: none outside none;
+}
+
+.right-nav-menu li {
+    float: right;
+    width: 150px;
+    height: 41px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    
+    line-height: 38px;
+    padding-right: 10px;
+    font-family: BYekan;
+    font-size: 17px;
+    z-index: 120;
+}
+.right-nav-item-newsletter {
+    background: none repeat scroll 0% 0% rgb(153, 51, 153);
+}
+.right-nav-item-home {
+    background: none repeat scroll 0% 0% rgb(2, 119, 158);
+}
+.right-nav-item-tour {
+    background: none repeat scroll 0% 0% rgb(0, 203, 231);
+}
+.right-nav-item-hotel {
+    background: none repeat scroll 0% 0% rgb(74, 135, 52);
+}
+.right-nav-item-resturant {
+    background: none repeat scroll 0% 0% rgb(253, 134, 3);
+}
+.right-nav-item-agency {
+    background: none repeat scroll 0% 0% rgb(223, 21, 26);
+}
+
+    
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+
+
+  
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+    
+    
+    
+    
+    
